@@ -1,0 +1,13 @@
+utilizator :1.patron.2.angajat
+	-ulitma data a logarii
+
+
+
+
+task
+
+mesaj - poate task poate mosteni din mesaj
+
+
+
+
